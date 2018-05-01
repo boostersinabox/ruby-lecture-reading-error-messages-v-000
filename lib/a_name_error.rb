@@ -1,5 +1,5 @@
 "hello world"
 
-"hello world" //or
+"hello world"
 hello_world = 5
 
